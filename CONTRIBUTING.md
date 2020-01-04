@@ -28,4 +28,4 @@ Review the guidance for [pull requests](https://docs.microsoft.com/contribute/ho
 
 **NOTE**
 
-We are not actively working on the files in the `docs/vs-2015` folder as these are for Visual Studio 2015, an older version of our product. We don't accept pull requests for trivial changes to these files.
+We are not actively working on the files in the `docs/vs-2015` folder as these are for Visual Studio 2015, an older version of our prodduct. We don't accept pull requests for trivial changes to these files.
