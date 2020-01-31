@@ -20,7 +20,7 @@ A dynamic menu list starts with a placeholder on a menu. Every time the menu is 
 
 Technically, a dynamic list can also be applied to a toolbar. However, we discourage that usage because a toolbar should remain unchanged unless the user takes specific steps to change it.
 
-This walkthrough creates an MRU list of four items that change their order every time that one of them is selected (the selected item moves to the top of the list).
+This walkthrough creates Test an MRU list of four items that change their order every time that one of them is selected (the selected item moves to the top of the list).
 
 For more information about menus and *.vsct* files, see [Commands, menus, and toolbars](../extensibility/internals/commands-menus-and-toolbars.md).
 
